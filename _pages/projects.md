@@ -15,7 +15,8 @@ permalink: /
 <div class="row nb">
 <h4>{{ project.title }}</h4>
 <p>{{ project.name }} <span style="float:right;"> {{ project.affiliation }} </span></p>
-<p>{{ project.description | replace: "  ", "<br/><br/>" }}</p>
+{% assign paragraphs = project.description | split '  ' %}
+{% for paragraph in paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
 <p>Contact: [{{ project.email }}](mailto:{{ project.email }})</p>
 </div>
 
