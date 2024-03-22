@@ -12,7 +12,7 @@ permalink: /
 {% assign number_printed = 0 %}
 {% for project in sorted_projects %}
 
-<div class="row">
+<div class="row nb">
 <h4>{{ project.title }}</h4>
 <p>{{ project.name }} <span style="float:right;"> {{ project.affiliation }} </span></p>
 <p>{{ project.description }}</p>
