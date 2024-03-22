@@ -1,6 +1,6 @@
 - timestamp: 3/1/2024 11:13:09
   name: 'Shilpa Dang '
-  affiliation: School of AIDE/ CBSA
+  affiliation: School of AIDE/CBSA
   title: 'Connectomics '
   description: Brain connectivity analysis using fMRI data
   email: sdang@iitj.ac.in
@@ -54,7 +54,7 @@
   description: Uncertainty modelling and data-driven construction of preference models
   email: ma@iitj.ac.in
   sort: '0'
-- timestamp: 3/16/2024 13:39:29
+- timestamp: 3/22/2024 14:14:47
   name: Saurabh Gandhi
   affiliation: School of AIDE/CBSA
   title: Whole-brain modeling for simulating TMS-EEG in neurodegenerative disorders
@@ -70,10 +70,11 @@
     MRI, electromagnetism, dynamical systems (thorough knowledge of one or more
     of these will be a plus point). Students looking for a career in academia
     are preferred (the PI will be able to provide best guidance and advice to
-    such a student).
+    such a student).  [More
+    information](https://csndl-iitd.github.io/cndl-website/).
   email: sgandhi@iitj.ac.in
   sort: '0'
-- timestamp: 3/16/2024 13:42:20
+- timestamp: 3/22/2024 14:14:40
   name: Saurabh Gandhi
   affiliation: School of AIDE/CBSA
   title: Neural correlates of smartphone addiction
@@ -85,7 +86,8 @@
     preferred. We are looking for applicants with a background in quantitative
     fields such as CS, EE, Physics, and interested in experimental neuroscience
     OR backgrounds in biology / psychology, interested in learning and applying
-    computational techniques and experimental neuroscience.
+    computational techniques and experimental neuroscience.  [More
+    information](https://csndl-iitd.github.io/cndl-website/).
   email: sgandhi@iitj.ac.in
   sort: '0'
 - timestamp: 3/21/2024 16:22:19
