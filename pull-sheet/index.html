@@ -15,32 +15,25 @@ title: Update Spreadsheet
 
     // dict of all published sheets and corresponding resource names
     var $resources = {
-        team: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Bopp7wygWjBmMaN8_hc4tytmtRc88Dehu1W9B-pjetK_LRcTahB7tRpSPY-tKeAK5w93TC-DKElE/pub?gid=253503174&single=true&output=tsv'
+        projects: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQE3e2_ad6Hf2M9L0VEzqKbi_-k4h82GoD11HZYYzV5CKjTkTigTJfJcT37_WYeyvmRxxC3xedigcb-/pub?gid=1922162969&single=true&output=tsv'
     }
 
     var header_maps = {
         team: {
-            "Acknowledgement": "acknowledgement",
-            "Department / Center / School": "affiliation",
-            "Alumni?": "alumni",
-            "What do you do now?": "alumni_current",
-            "Short bio 1": "bio1",
-            "Short bio 2": "bio2",
-            "Short bio 3": "bio3",
-            "Short bio 4": "bio4",
-            "Display?": "display",
-            "email": "email",
-            "Image": "image",
             "Name": "name",
-            "Position": "position",
+            "Primary affiliation": "affiliation",
+            "Project title": "title",
+            "Brief description": "description",
+            "Email Address": "email",
+            "Sort": "sort",
+            "Name": "name",
             "Timestamp": "timestamp",
-            "Year of joining": "year",
         }
     }
 
     // some constants related to gh-pages repository
     var $org = 'gsaurabhr';
-    var $repo = 'webdesign-test-template';
+    var $repo = 'SAIDE_PhD_Projects';
     var $branch = 'gh-pages';
     
     // this function extracts parameters from the URL to pass on to the javascript
