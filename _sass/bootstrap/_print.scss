@@ -19,10 +19,6 @@
         text-decoration: underline;
     }
 
-    a[href]:after {
-        content: " (" attr(href) ")";
-    }
-
     abbr[title]:after {
         content: " (" attr(title) ")";
     }
@@ -94,6 +90,10 @@
         td {
             border: 1px solid #ddd !important;
         }
+    }
+
+    .row {
+        page-break-inside: avoid;
     }
 
     // Bootstrap specific changes end
