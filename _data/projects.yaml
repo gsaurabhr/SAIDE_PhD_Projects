@@ -1,0 +1,274 @@
+- timestamp: 3/1/2024 11:13:09
+  name: 'Shilpa Dang '
+  affiliation: School of AIDE/ CBSA
+  title: 'Connectomics '
+  description: Brain connectivity analysis using fMRI data
+  email: sdang@iitj.ac.in
+  sort: '0'
+- timestamp: 3/1/2024 11:31:23
+  name: Vignesh Muralidharan
+  affiliation: School of AIDE/CBSA
+  title: Strategies to modulate inhibitory control of actions and thoughts in humans
+  description: >-
+    In everyday life, we are faced with situations where we have to control what
+    to do, what to say, and what we think. How are we able to stop
+    unwanted/inappropriate actions, intrusive thoughts that bother us, and
+    negative emotions which hinder our ability to perform daily tasks?
+    Impairments in inhibitory control manifests as disorders such as Tourette's
+    Syndrome (uncontrollable actions or tics), obsessive compulsive disorder and
+    anxiety disorders. Using neurofeedback, behavioral, and non-invasive brain
+    stimulation approaches we will explore ways in which the underlying brain
+    networks can be modulated to have functional effects on controlling actions
+    and thoughts.
+  email: vigneshmdharan@iitj.ac.in
+  sort: '0'
+- timestamp: 3/1/2024 15:48:52
+  name: Bhivraj Suthar
+  affiliation: School of AIDE/CBSA
+  title: >-
+    Development of Artificial Muscles and EEG/EMG-driven Sensitive Prosthetic
+    Hand for Enhancing Manipulation Capability for Missing Limb
+  description: >-
+    This study focuses on the development of artificial muscles and an
+    EEG/EMG-driven sensitive prosthetic hand aimed at enhancing manipulation
+    capability for individuals with missing limbs. Traditional prosthetic hands
+    often lack the dexterity and sensitivity required for intricate tasks.
+    Through the integration of advanced TSA artificial muscle technology and a
+    sophisticated EEG/EMG interface, our prosthetic hand offers improved
+    functionality and intuitive control. The artificial muscles replicate the
+    natural movements of human muscles, enhancing the hand's agility and
+    responsiveness. Moreover, the EEG/EMG-driven interface allows for seamless
+    interaction between the user's neural signals and the prosthetic hand,
+    enabling precise and intuitive manipulation. In addition, touch sensors will
+    be integrated with prosthetic hand for enhancing control for in-hand object
+    manipulation. This innovative approach holds great promise in significantly
+    improving the quality of life for individuals with limb loss by restoring
+    natural-like hand functionality and enhancing their ability to perform daily
+    tasks with ease and confidence.
+  email: bhivraj@iitj.ac.in
+  sort: '0'
+- timestamp: 3/4/2024 6:49:01
+  name: Manish Aggarwal
+  affiliation: School of AIDE
+  title: Uncertainty and Preference in Machine Learning
+  description: Uncertainty modelling and data-driven construction of preference models
+  email: ma@iitj.ac.in
+  sort: '0'
+- timestamp: 3/16/2024 13:39:29
+  name: Saurabh Gandhi
+  affiliation: School of AIDE/CBSA
+  title: Whole-brain modeling for simulating TMS-EEG in neurodegenerative disorders
+  description: >-
+    In this project, the student will first build a computational model of the
+    whole brain to simulate some experiments. These experiments can potentially
+    help in detecting the onset of neurodegenerative diseases like dementia at
+    very early stages. In the second part of the study, they will validate the
+    models with actual experiments, and then generate a large experimental
+    dataset.  Strong quantitative background with undergraduate training in
+    physics, computer science, electrical engineering or other quantitative
+    fields is required. Keen interest in applying physics to biological systems:
+    MRI, electromagnetism, dynamical systems (thorough knowledge of one or more
+    of these will be a plus point). Students looking for a career in academia
+    are preferred (the PI will be able to provide best guidance and advice to
+    such a student).
+  email: sgandhi@iitj.ac.in
+  sort: '0'
+- timestamp: 3/16/2024 13:42:20
+  name: Saurabh Gandhi
+  affiliation: School of AIDE/CBSA
+  title: Neural correlates of smartphone addiction
+  description: >-
+    The student will design, perform experiments and analyze data to understand
+    the neural impact of smartphone overuse, and its relationship to gambling.
+    The experiments will involve EEG based paradigms. Generous top-up funding is
+    available starting Feb. 2025.  Students looking for a career in academia are
+    preferred. We are looking for applicants with a background in quantitative
+    fields such as CS, EE, Physics, and interested in experimental neuroscience
+    OR backgrounds in biology / psychology, interested in learning and applying
+    computational techniques and experimental neuroscience.
+  email: sgandhi@iitj.ac.in
+  sort: '0'
+- timestamp: 3/21/2024 16:22:19
+  name: Bikash Santra
+  affiliation: School of AIDE
+  title: AI-based characterization of abnormalities in medical images
+  description: >-
+    The objective is to identify/segment and assess the abnormalities seen on
+    medical images like histopathology, CTs, PET/CTs and MRIs. We plan to
+    develop AI models introducing unique computer vision and deep learning
+    approaches for characterizing such abnormalities in medical images.
+  email: bikash@iitj.ac.in
+  sort: '0'
+- timestamp: 3/21/2024 16:23:41
+  name: Bikash Santra
+  affiliation: School of AIDE
+  title: >-
+    AI-driven genetic identity discovery of carcinoma/tumour analyzing medical
+    images
+  description: >-
+    The objective is to determine the genetic mutations of carcinoma/tumor by
+    automatically identifying them from medical images like histopathology, CTs,
+    PET/CTs and MRIs. We plan to develop AI models introducing unique computer
+    vision and deep learning approaches for characterizing such genetic
+    characterization of carcinoma/tumor from medical images.
+  email: bikash@iitj.ac.in
+  sort: '0'
+- timestamp: 3/21/2024 16:27:12
+  name: Bikash Santra
+  affiliation: School of AIDE
+  title: >-
+    Annotation-efficient deep learning for object
+    recognition/detection/segmentation and image generation/synthesis
+  description: >-
+    The objective is to address machine vision problems (such as object
+    recognition/detection/segmentation and image generation/synthesis) for
+    various applications (e.g. retail stores, facial expression recognition,
+    pose estimation and precision agriculture) by introducing deep learning
+    algorithms. We intend to emphasize on building annotation-efficient machine
+    learning frameworks introducing few-shot, zero-shot,
+    self/weakly/semi-supervised approaches.
+  email: bikash@iitj.ac.in
+  sort: '0'
+- timestamp: 2/23/2024 16:28:53
+  name: Ranju Mohan
+  affiliation: Civil and Infrastrcuture Engineering
+  title: >-
+    Driving behaviour and traffic flow modelling framework under connected and
+    autonomous traffic environment in India
+  description: >-
+    An integrated framework of traffic flow and driver behavior models, at
+    network level, using a hybrid (micro +macro) modelling approach will be
+    developed. Traffic congestion will be modelled through macroscopic approach
+    (continuum modelling of traffic flow) and driving behavior will be modelled
+    through microscopic approach. Preliminary model development use data feed
+    from driving simulator experiments, and later will be validated and will be
+    refined using data feed from an instrumented vehicle. The instrumented
+    vehicle i.e. OBU (On Board Unit) will be used to collect field data on
+    driving behavior and driving patterns in different traffic environments that
+    will be used to develop realistic models of driver behavior in heterogeneous
+    and unorderly traffic conditions. AI techniques such as deep learning will
+    be used to process data from these sensors in real-time. A fusion of
+    microscopic traffic flow theories and machine learning algorithms will be
+    used to learn the driving behavior parameters.
+  email: ranju@iitj.ac.in
+  sort: '1'
+- timestamp: 2/24/2024 10:31:07
+  name: Nishant Kumar
+  affiliation: Electrical Engineering
+  title: >-
+    Framework of AI tools for health estimation and fault detection in renewable
+    energy applications
+  description: >-
+    This project focuses on developing AI tools for monitoring the health and
+    detecting faults in renewable energy systems, aiming to improve their
+    reliability and efficiency. By leveraging advanced algorithms, it seeks to
+    enhance the performance and longevity of these systems, ultimately
+    contributing to a more sustainable energy future.
+  email: nishantkumar@iitj.ac.in
+  sort: '1'
+- timestamp: 2/26/2024 9:51:31
+  name: Angan Sengupta
+  affiliation: Chemical Engineering
+  title: >-
+    AI based computational material development for carbon capture utilisation
+    and sequestration (CCUS)
+  description: >-
+    The goal of our project is to enable and advance the emerging field of
+    data-driven research  (broadly covering the use of  artificial intelligence
+    (AI), machine learning (ML), data science,  informatics, as well as
+    modelling and computational research) for the development of novel 
+    carbon-capture materials and value-added products from CO2 in conjunction
+    with the use of molecular simulations. The present work, therefore, aims to
+    reduce the computational cost in the search and design of new materials and
+    valorisation products by bypassing the computational intensive DFT
+    calculations. The other objective of the problem is to design the complete
+    pilot system using 1st principle-induced AI algorithms, which can be
+    implemented in existing industries (viz. Methane reforming plants, Steel
+    Plants, Biogas production units, etc.) with high carbon footprints thus
+    making the process more environment friendly.
+  email: angan@iitj.ac.in
+  sort: '1'
+- timestamp: 2/27/2024 10:35:21
+  name: Saran Aadhar
+  affiliation: Civil and Infrastrcuture Engineering
+  title: >-
+    Drought Monitoring under Anthropogenic activities using hybrid modeling
+    approach
+  description: >-
+    Despite the large efforts from various national or International
+    organizations for drought and water stress monitoring in India, the existing
+    drought or water stress monitoring systems are unreliable in providing
+    city-level water stress information and show significant differences in the
+    actual drought conditions. The existing drought monitoring systems do not
+    consider the human influence on the water system, which causes differences
+    in the actual drought conditions. Therefore, there is an urgent need to
+    include regional human activities in drought monitoring using the hybrid
+    approach (hydrological modeling and machine learning). 
+  email: saran.aadhar@iitj.ac.in
+  sort: '1'
+- timestamp: 3/1/2024 11:20:59
+  name: Amit Bhardwaj
+  affiliation: Electrical Engineering
+  title: Understanding Neuroscience of Touch Perception for AR & VR Applications
+  description: >-
+    Here, in this project, we would like to relate the psychophysical findings
+    for texture perception with the neurological data (EEG). This project will
+    be in joint collaboration with Dr. Vignesh.
+  email: amitb@iitj.ac.in
+  sort: '1'
+- timestamp: 3/1/2024 12:07:56
+  name: Abhilasha Maheshwari
+  affiliation: Chemical Engineering
+  title: >-
+    Digital twin development for operational excellence in water distribution
+    networks
+  description: >-
+    Modelling, AI-IOT based architecture for Digital Twin framework and two-way
+    communication from physical system to virtual system for developing a fully
+    synchronized Digital twin.
+  email: abhilasham@iitj.ac.in
+  sort: '1'
+- timestamp: 3/1/2024 12:08:13
+  name: Anuj Pal Kapoor
+  affiliation: 'School of Management and Entrepreneurship '
+  title: Mobile App using Multi Sensory Experiences
+  description: >-
+    Developing a mobile app for digital wellbeing, by harnessing the power of
+    multi-sensory experiences
+  email: anujkapoor@iitj.ac.in
+  sort: '1'
+- timestamp: 3/1/2024 14:19:40
+  name: Chhanda Chakraborti
+  affiliation: SoLA
+  title: Artificial goodness
+  description: >-
+    Braod Area: AI and Ethics.  In automated decisions, often the concern is
+    that the decision may be efficient and informed and yet not 'good' in an
+    ethical sense, e.g. it may violate the right of some stakeholders. This
+    project tries to define what 'goodness' of a decision may mean in case of AI
+    systems, and strives to find whether decision-making algorithms can possibly
+    include 'goodness' as one of the parameters.   
+  email: chhanda@iitj.ac.in
+  sort: '1'
+- timestamp: 3/2/2024 0:05:34
+  name: Deepak Mishra
+  affiliation: Computer Science and Engineering
+  title: AI driven whole slide image analysis
+  description: >-
+    This project aims to develop deep learning approach for analysis of whole
+    slide images for diagnostic pathology. The approach would be helpful in
+    identifying tissue histotypes and predicting status of different biomarkers.
+  email: dmishra@iitj.ac.in
+  sort: '1'
+- timestamp: 3/3/2024 21:13:09
+  name: Harshal Akolekar
+  affiliation: Mechanical Engineering
+  title: Data Driven Transition and Turbulence Modelling for Gas Turbine Applications
+  description: >-
+    Using machine learning methods such as gene expression programming and
+    neural networks,  models are developed to improve the turbulence and
+    transition modelling for gas turbine applications. This project would be in
+    collaboration with the aerospace industry. Should be familiar with machine
+    learning and python. Experience in fluid mechanics is an additional bonus. 
+  email: harshal.akolekar@iitj.ac.in
+  sort: '1'
