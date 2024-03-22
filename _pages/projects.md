@@ -12,9 +12,9 @@ permalink: /
 
 <div class="row">
 <h4>{{ project.title }}</h4>
-{{ project.name }} <span style="float:right;"> {{ project.affiliation }} </span>
-{{ project.description }}
-Contact: {{ project.email }}
+<p>{{ project.name }} <span style="float:right;"> {{ project.affiliation }} </span></p>
+<p>{{ project.description }}</p>
+<p>Contact: {{ project.email }}</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
