@@ -4,9 +4,6 @@ layout: gridlay
 sitemap: false
 permalink: /projects/
 --- 
-
-{% assign sorted_projects = site.data.projects | sort: "sort" %}
-
 {% assign number_printed = 0 %}
 {% for project in sorted_prjects %}
 
