@@ -2,7 +2,7 @@
 title: "SAIDE PhD Project Offerings (2024 Spring cycle)"
 layout: gridlay
 sitemap: false
-permalink: /projects/
+permalink: /
 --- 
 {% assign number_printed = 0 %}
 {% for project in sorted_prjects %}

@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SAIDE web design test
+title: SAIDE PhD Project Offerings
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Web designing test template
-baseurl: "/webdesign-test-template"
+  PhD Project offerings through SAIDE
+baseurl: "/SAIDE_PhD_Projects"
 url: ""
 theme: jekyll-theme-minimal
 
