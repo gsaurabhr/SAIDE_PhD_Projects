@@ -8,7 +8,7 @@ permalink: /
 {% assign sorted_projects = site.data.projects | sort: "sort" %}
 
 {% assign number_printed = 0 %}
-{% for project in sorted_prjects %}
+{% for project in sorted_projects %}
 
 <div class="row">
 <h4>{{ project.title }}</h4>
