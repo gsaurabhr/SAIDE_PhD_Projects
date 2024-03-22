@@ -94,3 +94,10 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
+
+@media print {
+	div.pheader {
+	  position: fixed;
+	  top: 0;
+	}
+  }
