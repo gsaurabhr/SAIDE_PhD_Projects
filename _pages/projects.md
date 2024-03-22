@@ -5,7 +5,9 @@ sitemap: false
 permalink: /
 --- 
 
-{% assign sorted_projects = site.data.projects | sort: "sort" %}
+{% assign sorted_projects = site.data.projects | sort: "name" %}
+{% assign sorted_projects = sorted_projects | sort: "affiliation" %}
+{% assign sorted_projects = sorted_projects | sort: "sort" %}
 
 {% assign number_printed = 0 %}
 {% for project in sorted_projects %}
@@ -14,7 +16,7 @@ permalink: /
 <h4>{{ project.title }}</h4>
 <p>{{ project.name }} <span style="float:right;"> {{ project.affiliation }} </span></p>
 <p>{{ project.description }}</p>
-<p>Contact: {{ project.email }}</p>
+<p>Contact: [{{ project.email }}](mailto:{{ project.email }})</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
