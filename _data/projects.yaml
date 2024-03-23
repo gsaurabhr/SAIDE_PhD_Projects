@@ -276,7 +276,7 @@
   sort: '1'
 - timestamp: 3/22/2024 15:00:37
   name: Bhivraj Suthar
-  affiliation: School of Artificial Intelligence and Data Science
+  affiliation: School of AIDE/CBSA
   title: Development of Brain-muscle-controlled Prosthetic leg
   description: >-
     The research aims to revolutionize prosthetic technology through the
@@ -292,10 +292,10 @@
     technologies, paving the way for enhanced quality of life and autonomy for
     individuals with limb loss.
   email: bhivraj@iitj.ac.in
-  sort: ''
+  sort: '0'
 - timestamp: 3/22/2024 15:09:29
   name: Bhivraj Suthar
-  affiliation: School of Artificial Intelligence and Data Science
+  affiliation: School of AIDE/CBSA
   title: Vision-Based in hand manipulation using Artificial Intelligence
   description: >-
     The research focuses on advancing the capabilities of in-hand manipulation
@@ -309,4 +309,4 @@
     handled and manipulated, paving the way for more intuitive and efficient
     human-machine interactions.
   email: bhivraj@iitj.ac.in
-  sort: ''
+  sort: '0'
